@@ -12,7 +12,9 @@ Please refer to intrinsic documentation to the different function descriptions a
 In terminal cd into the /unitTest folder and run the commands below.
 
   cmake -S . -B build
+  
   cmake --build build
+  
   cd build && ctest
 
 This will reveal the tests and show if they pass/fail.
