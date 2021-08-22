@@ -1,0 +1,1056 @@
+Start testing: Aug 22 02:59 EDT
+----------------------------------------------------------
+1/39 Testing: emgToolbox.AbsoluteValueOfTheSummationOfExpRoot
+1/39 Test: emgToolbox.AbsoluteValueOfTheSummationOfExpRoot
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.AbsoluteValueOfTheSummationOfExpRoot" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.AbsoluteValueOfTheSummationOfExpRoot" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.AbsoluteValueOfTheSummationOfExpRoot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.AbsoluteValueOfTheSummationOfExpRoot
+[       OK ] emgToolbox.AbsoluteValueOfTheSummationOfExpRoot (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.AbsoluteValueOfTheSummationOfExpRoot" end time: Aug 22 02:59 EDT
+"emgToolbox.AbsoluteValueOfTheSummationOfExpRoot" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/39 Testing: emgToolbox.AbsoluteValueOfTheSummationOfSquareRoot
+2/39 Test: emgToolbox.AbsoluteValueOfTheSummationOfSquareRoot
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.AbsoluteValueOfTheSummationOfSquareRoot" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.AbsoluteValueOfTheSummationOfSquareRoot" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.AbsoluteValueOfTheSummationOfSquareRoot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.AbsoluteValueOfTheSummationOfSquareRoot
+[       OK ] emgToolbox.AbsoluteValueOfTheSummationOfSquareRoot (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.AbsoluteValueOfTheSummationOfSquareRoot" end time: Aug 22 02:59 EDT
+"emgToolbox.AbsoluteValueOfTheSummationOfSquareRoot" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/39 Testing: emgToolbox.AverageAmplitudeChange
+3/39 Test: emgToolbox.AverageAmplitudeChange
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.AverageAmplitudeChange" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.AverageAmplitudeChange" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.AverageAmplitudeChange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.AverageAmplitudeChange
+[       OK ] emgToolbox.AverageAmplitudeChange (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.AverageAmplitudeChange" end time: Aug 22 02:59 EDT
+"emgToolbox.AverageAmplitudeChange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/39 Testing: emgToolbox.AverageEnergy
+4/39 Test: emgToolbox.AverageEnergy
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.AverageEnergy" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.AverageEnergy" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.AverageEnergy
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.AverageEnergy
+[       OK ] emgToolbox.AverageEnergy (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.AverageEnergy" end time: Aug 22 02:59 EDT
+"emgToolbox.AverageEnergy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/39 Testing: emgToolbox.Cardinality
+5/39 Test: emgToolbox.Cardinality
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.Cardinality" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.Cardinality" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.Cardinality
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.Cardinality
+[       OK ] emgToolbox.Cardinality (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.Cardinality" end time: Aug 22 02:59 EDT
+"emgToolbox.Cardinality" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/39 Testing: emgToolbox.CoefficientOfVariation
+6/39 Test: emgToolbox.CoefficientOfVariation
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.CoefficientOfVariation" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.CoefficientOfVariation" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.CoefficientOfVariation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.CoefficientOfVariation
+[       OK ] emgToolbox.CoefficientOfVariation (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.CoefficientOfVariation" end time: Aug 22 02:59 EDT
+"emgToolbox.CoefficientOfVariation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/39 Testing: emgToolbox.DifferenceAbsoluteMeanValue
+7/39 Test: emgToolbox.DifferenceAbsoluteMeanValue
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.DifferenceAbsoluteMeanValue" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.DifferenceAbsoluteMeanValue" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.DifferenceAbsoluteMeanValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.DifferenceAbsoluteMeanValue
+[       OK ] emgToolbox.DifferenceAbsoluteMeanValue (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.DifferenceAbsoluteMeanValue" end time: Aug 22 02:59 EDT
+"emgToolbox.DifferenceAbsoluteMeanValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/39 Testing: emgToolbox.DifferenceAbsoluteStandardDeviationValue
+8/39 Test: emgToolbox.DifferenceAbsoluteStandardDeviationValue
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.DifferenceAbsoluteStandardDeviationValue" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.DifferenceAbsoluteStandardDeviationValue" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.DifferenceAbsoluteStandardDeviationValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.DifferenceAbsoluteStandardDeviationValue
+[       OK ] emgToolbox.DifferenceAbsoluteStandardDeviationValue (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.DifferenceAbsoluteStandardDeviationValue" end time: Aug 22 02:59 EDT
+"emgToolbox.DifferenceAbsoluteStandardDeviationValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/39 Testing: emgToolbox.DifferenceVarianceValue
+9/39 Test: emgToolbox.DifferenceVarianceValue
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.DifferenceVarianceValue" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.DifferenceVarianceValue" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.DifferenceVarianceValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.DifferenceVarianceValue
+[       OK ] emgToolbox.DifferenceVarianceValue (1 ms)
+[----------] 1 test from emgToolbox (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.DifferenceVarianceValue" end time: Aug 22 02:59 EDT
+"emgToolbox.DifferenceVarianceValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/39 Testing: emgToolbox.EnhancedMeanAbsoluteValue
+10/39 Test: emgToolbox.EnhancedMeanAbsoluteValue
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.EnhancedMeanAbsoluteValue" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.EnhancedMeanAbsoluteValue" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.EnhancedMeanAbsoluteValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.EnhancedMeanAbsoluteValue
+[       OK ] emgToolbox.EnhancedMeanAbsoluteValue (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.EnhancedMeanAbsoluteValue" end time: Aug 22 02:59 EDT
+"emgToolbox.EnhancedMeanAbsoluteValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/39 Testing: emgToolbox.EnhancedWaveLength
+11/39 Test: emgToolbox.EnhancedWaveLength
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.EnhancedWaveLength" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.EnhancedWaveLength" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.EnhancedWaveLength
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.EnhancedWaveLength
+[       OK ] emgToolbox.EnhancedWaveLength (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.EnhancedWaveLength" end time: Aug 22 02:59 EDT
+"emgToolbox.EnhancedWaveLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/39 Testing: emgToolbox.IntegratedEMG
+12/39 Test: emgToolbox.IntegratedEMG
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.IntegratedEMG" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.IntegratedEMG" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.IntegratedEMG
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.IntegratedEMG
+[       OK ] emgToolbox.IntegratedEMG (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.IntegratedEMG" end time: Aug 22 02:59 EDT
+"emgToolbox.IntegratedEMG" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/39 Testing: emgToolbox.InterquartileRange
+13/39 Test: emgToolbox.InterquartileRange
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.InterquartileRange" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.InterquartileRange" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.InterquartileRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.InterquartileRange
+[       OK ] emgToolbox.InterquartileRange (1 ms)
+[----------] 1 test from emgToolbox (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.InterquartileRange" end time: Aug 22 02:59 EDT
+"emgToolbox.InterquartileRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/39 Testing: emgToolbox.Kurtosis
+14/39 Test: emgToolbox.Kurtosis
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.Kurtosis" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.Kurtosis" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.Kurtosis
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.Kurtosis
+[       OK ] emgToolbox.Kurtosis (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.Kurtosis" end time: Aug 22 02:59 EDT
+"emgToolbox.Kurtosis" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/39 Testing: emgToolbox.LogCoefficientOfVariation
+15/39 Test: emgToolbox.LogCoefficientOfVariation
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.LogCoefficientOfVariation" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.LogCoefficientOfVariation" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.LogCoefficientOfVariation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.LogCoefficientOfVariation
+[       OK ] emgToolbox.LogCoefficientOfVariation (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.LogCoefficientOfVariation" end time: Aug 22 02:59 EDT
+"emgToolbox.LogCoefficientOfVariation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/39 Testing: emgToolbox.LogDetector
+16/39 Test: emgToolbox.LogDetector
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.LogDetector" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.LogDetector" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.LogDetector
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.LogDetector
+[       OK ] emgToolbox.LogDetector (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.LogDetector" end time: Aug 22 02:59 EDT
+"emgToolbox.LogDetector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/39 Testing: emgToolbox.LogDifferenceAbsoluteMeanValue
+17/39 Test: emgToolbox.LogDifferenceAbsoluteMeanValue
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.LogDifferenceAbsoluteMeanValue" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.LogDifferenceAbsoluteMeanValue" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.LogDifferenceAbsoluteMeanValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.LogDifferenceAbsoluteMeanValue
+[       OK ] emgToolbox.LogDifferenceAbsoluteMeanValue (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.LogDifferenceAbsoluteMeanValue" end time: Aug 22 02:59 EDT
+"emgToolbox.LogDifferenceAbsoluteMeanValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/39 Testing: emgToolbox.LogDifferenceAbsoluteStandardDeviationValue
+18/39 Test: emgToolbox.LogDifferenceAbsoluteStandardDeviationValue
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.LogDifferenceAbsoluteStandardDeviationValue" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.LogDifferenceAbsoluteStandardDeviationValue" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.LogDifferenceAbsoluteStandardDeviationValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.LogDifferenceAbsoluteStandardDeviationValue
+[       OK ] emgToolbox.LogDifferenceAbsoluteStandardDeviationValue (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.LogDifferenceAbsoluteStandardDeviationValue" end time: Aug 22 02:59 EDT
+"emgToolbox.LogDifferenceAbsoluteStandardDeviationValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/39 Testing: emgToolbox.LogTeagerKaiserEnergyOperator
+19/39 Test: emgToolbox.LogTeagerKaiserEnergyOperator
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.LogTeagerKaiserEnergyOperator" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.LogTeagerKaiserEnergyOperator" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.LogTeagerKaiserEnergyOperator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.LogTeagerKaiserEnergyOperator
+[       OK ] emgToolbox.LogTeagerKaiserEnergyOperator (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.LogTeagerKaiserEnergyOperator" end time: Aug 22 02:59 EDT
+"emgToolbox.LogTeagerKaiserEnergyOperator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/39 Testing: emgToolbox.MaximumFractalLength
+20/39 Test: emgToolbox.MaximumFractalLength
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.MaximumFractalLength" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.MaximumFractalLength" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.MaximumFractalLength
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.MaximumFractalLength
+[       OK ] emgToolbox.MaximumFractalLength (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.MaximumFractalLength" end time: Aug 22 02:59 EDT
+"emgToolbox.MaximumFractalLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/39 Testing: emgToolbox.MeanAbsoluteDeviation
+21/39 Test: emgToolbox.MeanAbsoluteDeviation
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.MeanAbsoluteDeviation" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.MeanAbsoluteDeviation" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.MeanAbsoluteDeviation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.MeanAbsoluteDeviation
+[       OK ] emgToolbox.MeanAbsoluteDeviation (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.MeanAbsoluteDeviation" end time: Aug 22 02:59 EDT
+"emgToolbox.MeanAbsoluteDeviation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/39 Testing: emgToolbox.MeanAbsoluteValue
+22/39 Test: emgToolbox.MeanAbsoluteValue
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.MeanAbsoluteValue" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.MeanAbsoluteValue" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.MeanAbsoluteValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.MeanAbsoluteValue
+[       OK ] emgToolbox.MeanAbsoluteValue (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.MeanAbsoluteValue" end time: Aug 22 02:59 EDT
+"emgToolbox.MeanAbsoluteValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/39 Testing: emgToolbox.MeanValueOfTheSquareRoot
+23/39 Test: emgToolbox.MeanValueOfTheSquareRoot
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.MeanValueOfTheSquareRoot" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.MeanValueOfTheSquareRoot" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.MeanValueOfTheSquareRoot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.MeanValueOfTheSquareRoot
+[       OK ] emgToolbox.MeanValueOfTheSquareRoot (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.MeanValueOfTheSquareRoot" end time: Aug 22 02:59 EDT
+"emgToolbox.MeanValueOfTheSquareRoot" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/39 Testing: emgToolbox.ModifiedMeanAbsoluteValue
+24/39 Test: emgToolbox.ModifiedMeanAbsoluteValue
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.ModifiedMeanAbsoluteValue" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.ModifiedMeanAbsoluteValue" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.ModifiedMeanAbsoluteValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.ModifiedMeanAbsoluteValue
+[       OK ] emgToolbox.ModifiedMeanAbsoluteValue (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.ModifiedMeanAbsoluteValue" end time: Aug 22 02:59 EDT
+"emgToolbox.ModifiedMeanAbsoluteValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/39 Testing: emgToolbox.ModifiedMeanAbsoluteValue2
+25/39 Test: emgToolbox.ModifiedMeanAbsoluteValue2
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.ModifiedMeanAbsoluteValue2" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.ModifiedMeanAbsoluteValue2" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.ModifiedMeanAbsoluteValue2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.ModifiedMeanAbsoluteValue2
+[       OK ] emgToolbox.ModifiedMeanAbsoluteValue2 (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.ModifiedMeanAbsoluteValue2" end time: Aug 22 02:59 EDT
+"emgToolbox.ModifiedMeanAbsoluteValue2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/39 Testing: emgToolbox.MyopulsePercentageRate
+26/39 Test: emgToolbox.MyopulsePercentageRate
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.MyopulsePercentageRate" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.MyopulsePercentageRate" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.MyopulsePercentageRate
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.MyopulsePercentageRate
+[       OK ] emgToolbox.MyopulsePercentageRate (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.MyopulsePercentageRate" end time: Aug 22 02:59 EDT
+"emgToolbox.MyopulsePercentageRate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/39 Testing: emgToolbox.NewZeroCrossing
+27/39 Test: emgToolbox.NewZeroCrossing
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.NewZeroCrossing" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.NewZeroCrossing" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.NewZeroCrossing
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.NewZeroCrossing
+[       OK ] emgToolbox.NewZeroCrossing (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.NewZeroCrossing" end time: Aug 22 02:59 EDT
+"emgToolbox.NewZeroCrossing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/39 Testing: emgToolbox.RootMeanSquare
+28/39 Test: emgToolbox.RootMeanSquare
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.RootMeanSquare" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.RootMeanSquare" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.RootMeanSquare
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.RootMeanSquare
+[       OK ] emgToolbox.RootMeanSquare (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.RootMeanSquare" end time: Aug 22 02:59 EDT
+"emgToolbox.RootMeanSquare" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/39 Testing: emgToolbox.SimpleSquareIntegral
+29/39 Test: emgToolbox.SimpleSquareIntegral
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.SimpleSquareIntegral" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.SimpleSquareIntegral" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.SimpleSquareIntegral
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.SimpleSquareIntegral
+[       OK ] emgToolbox.SimpleSquareIntegral (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.SimpleSquareIntegral" end time: Aug 22 02:59 EDT
+"emgToolbox.SimpleSquareIntegral" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/39 Testing: emgToolbox.Skewness
+30/39 Test: emgToolbox.Skewness
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.Skewness" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.Skewness" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.Skewness
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.Skewness
+[       OK ] emgToolbox.Skewness (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.Skewness" end time: Aug 22 02:59 EDT
+"emgToolbox.Skewness" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/39 Testing: emgToolbox.SlopeSignChange
+31/39 Test: emgToolbox.SlopeSignChange
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.SlopeSignChange" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.SlopeSignChange" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.SlopeSignChange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.SlopeSignChange
+[       OK ] emgToolbox.SlopeSignChange (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.SlopeSignChange" end time: Aug 22 02:59 EDT
+"emgToolbox.SlopeSignChange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/39 Testing: emgToolbox.StandardDeviation
+32/39 Test: emgToolbox.StandardDeviation
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.StandardDeviation" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.StandardDeviation" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.StandardDeviation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.StandardDeviation
+[       OK ] emgToolbox.StandardDeviation (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.StandardDeviation" end time: Aug 22 02:59 EDT
+"emgToolbox.StandardDeviation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/39 Testing: emgToolbox.TemporalMoment
+33/39 Test: emgToolbox.TemporalMoment
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.TemporalMoment" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.TemporalMoment" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.TemporalMoment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.TemporalMoment
+[       OK ] emgToolbox.TemporalMoment (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.TemporalMoment" end time: Aug 22 02:59 EDT
+"emgToolbox.TemporalMoment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/39 Testing: emgToolbox.Variance
+34/39 Test: emgToolbox.Variance
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.Variance" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.Variance" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.Variance
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.Variance
+[       OK ] emgToolbox.Variance (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.Variance" end time: Aug 22 02:59 EDT
+"emgToolbox.Variance" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/39 Testing: emgToolbox.VarianceOfEMG
+35/39 Test: emgToolbox.VarianceOfEMG
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.VarianceOfEMG" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.VarianceOfEMG" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.VarianceOfEMG
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.VarianceOfEMG
+[       OK ] emgToolbox.VarianceOfEMG (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.VarianceOfEMG" end time: Aug 22 02:59 EDT
+"emgToolbox.VarianceOfEMG" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/39 Testing: emgToolbox.VOrder
+36/39 Test: emgToolbox.VOrder
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.VOrder" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.VOrder" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.VOrder
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.VOrder
+[       OK ] emgToolbox.VOrder (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.VOrder" end time: Aug 22 02:59 EDT
+"emgToolbox.VOrder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/39 Testing: emgToolbox.WaveformLength
+37/39 Test: emgToolbox.WaveformLength
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.WaveformLength" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.WaveformLength" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.WaveformLength
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.WaveformLength
+[       OK ] emgToolbox.WaveformLength (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.WaveformLength" end time: Aug 22 02:59 EDT
+"emgToolbox.WaveformLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/39 Testing: emgToolbox.WillisonAmplitude
+38/39 Test: emgToolbox.WillisonAmplitude
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.WillisonAmplitude" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.WillisonAmplitude" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.WillisonAmplitude
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.WillisonAmplitude
+[       OK ] emgToolbox.WillisonAmplitude (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.WillisonAmplitude" end time: Aug 22 02:59 EDT
+"emgToolbox.WillisonAmplitude" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/39 Testing: emgToolbox.ZeroCrossing
+39/39 Test: emgToolbox.ZeroCrossing
+Command: "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest" "--gtest_filter=emgToolbox.ZeroCrossing" "--gtest_also_run_disabled_tests"
+Directory: /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build
+"emgToolbox.ZeroCrossing" start time: Aug 22 02:59 EDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = emgToolbox.ZeroCrossing
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from emgToolbox
+[ RUN      ] emgToolbox.ZeroCrossing
+[       OK ] emgToolbox.ZeroCrossing (0 ms)
+[----------] 1 test from emgToolbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"emgToolbox.ZeroCrossing" end time: Aug 22 02:59 EDT
+"emgToolbox.ZeroCrossing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 22 02:59 EDT

@@ -1,0 +1,239 @@
+\hypertarget{emg_toolbox_8h_source}{}\doxysection{emg\+Toolbox.\+h}
+\mbox{\hyperlink{emg_toolbox_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{13 \textcolor{preprocessor}{\#ifndef emgToolbox\_h}}
+\DoxyCodeLine{14 \textcolor{preprocessor}{\#define emgToolbox\_h}}
+\DoxyCodeLine{15 }
+\DoxyCodeLine{16 \textcolor{preprocessor}{\#include <stdio.h>}}
+\DoxyCodeLine{17 \textcolor{preprocessor}{\#include <math.h>}}
+\DoxyCodeLine{18 \textcolor{preprocessor}{\#include <stdlib.h>}}
+\DoxyCodeLine{19 \textcolor{comment}{//\#include "{}Arduino.h"{}}}
+\DoxyCodeLine{20 }
+\DoxyCodeLine{22 }
+\DoxyCodeLine{26 \textcolor{keyword}{class }\mbox{\hyperlink{classemg_toolbox}{emgToolbox}}}
+\DoxyCodeLine{27 \{}
+\DoxyCodeLine{28   \textcolor{keyword}{public}:}
+\DoxyCodeLine{30 }
+\DoxyCodeLine{35     \mbox{\hyperlink{classemg_toolbox_ae574b57307e4b1aa5b6ba731a78d7d01}{emgToolbox}}(\textcolor{keywordtype}{double} *arr, \textcolor{keywordtype}{int} size, \textcolor{keywordtype}{double} opts)}
+\DoxyCodeLine{36     \{}
+\DoxyCodeLine{37         \textcolor{comment}{// Store input as respective member variable of class emgToolbox.}}
+\DoxyCodeLine{38         mArr = arr;}
+\DoxyCodeLine{39         mSize = size;}
+\DoxyCodeLine{40         mOpts = opts;}
+\DoxyCodeLine{41     \}}
+\DoxyCodeLine{42 }
+\DoxyCodeLine{44 }
+\DoxyCodeLine{47     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a6edb1663646584287a0b272a800ddec7}{ASM}}();}
+\DoxyCodeLine{49 }
+\DoxyCodeLine{52     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a0952b8279eae69de72e00b35a193b967}{ASS}}();}
+\DoxyCodeLine{54 }
+\DoxyCodeLine{57     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a27e8b44d4bd18882acf78873d9372660}{AAC}}();}
+\DoxyCodeLine{59 }
+\DoxyCodeLine{62     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ac4f315c8c6a53fc3c46b1ecf61707ea4}{ME}}();}
+\DoxyCodeLine{64 }
+\DoxyCodeLine{67     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ae8b656e73c35745128be10387dfc8a94}{CARD}}();}
+\DoxyCodeLine{69 }
+\DoxyCodeLine{72     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a530a89ec9231b8c845ea17e76970804a}{COV}}();}
+\DoxyCodeLine{74 }
+\DoxyCodeLine{77     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_af0c242f50b8eae1d55d3c0138049d582}{DAMV}}();}
+\DoxyCodeLine{79 }
+\DoxyCodeLine{82     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a23d1156755d8f1b26a202f2515c50213}{DASDV}}();}
+\DoxyCodeLine{84 }
+\DoxyCodeLine{87     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a5991a137ecf1125ceb64ab190d58eb8d}{DVARV}}();}
+\DoxyCodeLine{89 }
+\DoxyCodeLine{92     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a5b13e0d562082f4e50b6f2356e3b0a23}{EMAV}}();}
+\DoxyCodeLine{94 }
+\DoxyCodeLine{97     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a5e6a31187979c651c2f79f83c554d91d}{EWL}}();}
+\DoxyCodeLine{99 }
+\DoxyCodeLine{102     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a9358824ccf0409306b93e86e54a76725}{IEMG}}();}
+\DoxyCodeLine{104 }
+\DoxyCodeLine{107     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_aba5fffa7e0c4093989b5d43615ed4c8f}{IQR}}();}
+\DoxyCodeLine{109 }
+\DoxyCodeLine{112     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ac4db75884e91ebf3a6db6a8558cef900}{KURT}}();}
+\DoxyCodeLine{114 }
+\DoxyCodeLine{117     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ae449a5723a5549d0194f44ae89f7d355}{LCOV}}();}
+\DoxyCodeLine{119 }
+\DoxyCodeLine{122     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ab7bfcc8c5f1083b85bd12f476fe7c7ff}{LD}}();}
+\DoxyCodeLine{124 }
+\DoxyCodeLine{127     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ac93e83cdb7152c3bf9676532451aadae}{LDAMV}}();}
+\DoxyCodeLine{129 }
+\DoxyCodeLine{132     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a9d383ff79b7f5c81277e004e1947c1fb}{LDASDV}}();}
+\DoxyCodeLine{134 }
+\DoxyCodeLine{137     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ab1e6036c17dad052a1e37dba3f2f9755}{LTKEO}}();}
+\DoxyCodeLine{139 }
+\DoxyCodeLine{142     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_abb6fde41c02cb5cd1a2e186eea6e43a7}{MYOP}}();}
+\DoxyCodeLine{144 }
+\DoxyCodeLine{147     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a3dd58e80b9564d971625e358c967c15f}{MFL}}();}
+\DoxyCodeLine{149 }
+\DoxyCodeLine{152     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a781881ff68ff8d2f9b04ed48813f941e}{MMAV2}}();}
+\DoxyCodeLine{154 }
+\DoxyCodeLine{157     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_aa600fe7dfda5cd1cf07fc4e7aa408a7d}{MMAV}}();}
+\DoxyCodeLine{159 }
+\DoxyCodeLine{162     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ac87156fc3db4ca969777a3a257d69b08}{MSR}}();}
+\DoxyCodeLine{164 }
+\DoxyCodeLine{167     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ac037f4401224d17f1fd6089a730a6009}{MAV}}();}
+\DoxyCodeLine{169 }
+\DoxyCodeLine{172     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_aa1d3744a5dfb8a27ff1387a310110f0f}{MAD}}();}
+\DoxyCodeLine{174 }
+\DoxyCodeLine{177     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a48dc6d5c542445cd15119ecfdac62002}{FZC}}();}
+\DoxyCodeLine{179 }
+\DoxyCodeLine{182     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ac891beec37745637430de38eecc440ec}{RMS}}();}
+\DoxyCodeLine{184 }
+\DoxyCodeLine{187     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_af1d831ec10befb274b2e7d8433967144}{SSI}}();}
+\DoxyCodeLine{189 }
+\DoxyCodeLine{192     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a0c5f70272285bdcd59c35da46a54c997}{SKEW}}();}
+\DoxyCodeLine{194 }
+\DoxyCodeLine{197     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a56d1e0e6eaf39f1c1d33d9f00e110007}{SSC}}();}
+\DoxyCodeLine{199 }
+\DoxyCodeLine{202     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ab0f6ef91b0e005976bca9dacef955b22}{SD}}();}
+\DoxyCodeLine{204 }
+\DoxyCodeLine{207     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_abb55909d423624a200a74c3cd2485cec}{TM}}();}
+\DoxyCodeLine{209 }
+\DoxyCodeLine{212     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a1ab457de03960d608c0e6424c8704177}{VAR}}();}
+\DoxyCodeLine{214 }
+\DoxyCodeLine{217     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_ae1a29539cc44dca8c93e3c8329716ec1}{VAREMG}}();}
+\DoxyCodeLine{219 }
+\DoxyCodeLine{222     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_acdf127dad5142498b1b63c82d6e75fb3}{VO}}();}
+\DoxyCodeLine{224 }
+\DoxyCodeLine{227     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a8d493d916413c9368ad124eedb903a7b}{WL}}();}
+\DoxyCodeLine{229 }
+\DoxyCodeLine{232     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a512c671aa9bbd54e3d471d54bb002696}{WA}}();}
+\DoxyCodeLine{234 }
+\DoxyCodeLine{237     \textcolor{keywordtype}{double} \mbox{\hyperlink{classemg_toolbox_a836d21d472293f67fdc941ceaae0b27f}{ZC}}();}
+\DoxyCodeLine{238     }
+\DoxyCodeLine{239   \textcolor{keyword}{protected}:}
+\DoxyCodeLine{240 }
+\DoxyCodeLine{241     }
+\DoxyCodeLine{242   \textcolor{keyword}{private}:}
+\DoxyCodeLine{243     \textcolor{comment}{// Array of double that stores emg singal.}}
+\DoxyCodeLine{244     \textcolor{keywordtype}{double} *mArr;}
+\DoxyCodeLine{245 }
+\DoxyCodeLine{246     \textcolor{comment}{// Size of array that stores emg signal.}}
+\DoxyCodeLine{247     \textcolor{keywordtype}{int} mSize;}
+\DoxyCodeLine{248 }
+\DoxyCodeLine{249     \textcolor{comment}{// Operands value that is required for some feature algorithms.}}
+\DoxyCodeLine{250     \textcolor{keywordtype}{double} mOpts;}
+\DoxyCodeLine{251 }
+\DoxyCodeLine{253 }
+\DoxyCodeLine{257     \textcolor{keywordtype}{double} kurtosisNumerator(\textcolor{keywordtype}{double} mean);}
+\DoxyCodeLine{259 }
+\DoxyCodeLine{263     \textcolor{keywordtype}{double} kurtosisDenominator(\textcolor{keywordtype}{double} mean);}
+\DoxyCodeLine{265 }
+\DoxyCodeLine{269     \textcolor{keywordtype}{double} skewnessNumerator(\textcolor{keywordtype}{double} mean);}
+\DoxyCodeLine{271 }
+\DoxyCodeLine{275     \textcolor{keywordtype}{double} skewnessDenominator(\textcolor{keywordtype}{double} mean);}
+\DoxyCodeLine{276 }
+\DoxyCodeLine{278 }
+\DoxyCodeLine{284     \textcolor{keywordtype}{void} merge(\textcolor{keywordtype}{double} arr[], \textcolor{keywordtype}{int} l, \textcolor{keywordtype}{int} m, \textcolor{keywordtype}{int} r)}
+\DoxyCodeLine{285     \{}
+\DoxyCodeLine{286         \textcolor{keywordtype}{int} i, j, k;}
+\DoxyCodeLine{287         \textcolor{keywordtype}{int} n1 = m -\/ l + 1;}
+\DoxyCodeLine{288         \textcolor{keywordtype}{int} n2 = r -\/ m;}
+\DoxyCodeLine{289     }
+\DoxyCodeLine{290         \textcolor{comment}{/* create temp arrays */}}
+\DoxyCodeLine{291         \textcolor{keywordtype}{double} L[n1], R[n2];}
+\DoxyCodeLine{292     }
+\DoxyCodeLine{293         \textcolor{comment}{/* Copy data to temp arrays L[] and R[] */}}
+\DoxyCodeLine{294         \textcolor{keywordflow}{for} (i = 0; i < n1; i++)}
+\DoxyCodeLine{295             L[i] = arr[l + i];}
+\DoxyCodeLine{296         \textcolor{keywordflow}{for} (j = 0; j < n2; j++)}
+\DoxyCodeLine{297             R[j] = arr[m + 1 + j];}
+\DoxyCodeLine{298     }
+\DoxyCodeLine{299         \textcolor{comment}{/* Merge the temp arrays back into arr[l..r]*/}}
+\DoxyCodeLine{300         i = 0; \textcolor{comment}{// Initial index of first subarray}}
+\DoxyCodeLine{301         j = 0; \textcolor{comment}{// Initial index of second subarray}}
+\DoxyCodeLine{302         k = l; \textcolor{comment}{// Initial index of merged subarray}}
+\DoxyCodeLine{303         \textcolor{keywordflow}{while} (i < n1 \&\& j < n2) }
+\DoxyCodeLine{304         \{}
+\DoxyCodeLine{305             \textcolor{keywordflow}{if} (L[i] <= R[j]) }
+\DoxyCodeLine{306             \{}
+\DoxyCodeLine{307                 arr[k] = L[i];}
+\DoxyCodeLine{308                 i++;}
+\DoxyCodeLine{309             \}}
+\DoxyCodeLine{310             \textcolor{keywordflow}{else} }
+\DoxyCodeLine{311             \{}
+\DoxyCodeLine{312                 arr[k] = R[j];}
+\DoxyCodeLine{313                 j++;}
+\DoxyCodeLine{314             \}}
+\DoxyCodeLine{315             k++;}
+\DoxyCodeLine{316         \}}
+\DoxyCodeLine{317     }
+\DoxyCodeLine{318         \textcolor{comment}{/* Copy the remaining elements of L[], if there}}
+\DoxyCodeLine{319 \textcolor{comment}{        are any */}}
+\DoxyCodeLine{320         \textcolor{keywordflow}{while} (i < n1) }
+\DoxyCodeLine{321         \{}
+\DoxyCodeLine{322             arr[k] = L[i];}
+\DoxyCodeLine{323             i++;}
+\DoxyCodeLine{324             k++;}
+\DoxyCodeLine{325         \}}
+\DoxyCodeLine{326     }
+\DoxyCodeLine{327         \textcolor{comment}{/* Copy the remaining elements of R[], if there}}
+\DoxyCodeLine{328 \textcolor{comment}{        are any */}}
+\DoxyCodeLine{329         \textcolor{keywordflow}{while} (j < n2) }
+\DoxyCodeLine{330         \{}
+\DoxyCodeLine{331             arr[k] = R[j];}
+\DoxyCodeLine{332             j++;}
+\DoxyCodeLine{333             k++;}
+\DoxyCodeLine{334         \}}
+\DoxyCodeLine{335     \}}
+\DoxyCodeLine{336 }
+\DoxyCodeLine{338 }
+\DoxyCodeLine{343     \textcolor{keywordtype}{void} mergeSort(\textcolor{keywordtype}{double} arr[], \textcolor{keywordtype}{double} l, \textcolor{keywordtype}{double} r)}
+\DoxyCodeLine{344     \{}
+\DoxyCodeLine{345         \textcolor{keywordflow}{if} (l < r) }
+\DoxyCodeLine{346         \{}
+\DoxyCodeLine{347             \textcolor{comment}{// Same as (l+r)/2, but avoids overflow for}}
+\DoxyCodeLine{348             \textcolor{comment}{// large l and h}}
+\DoxyCodeLine{349             \textcolor{keywordtype}{double} m = l + (r -\/ l) / 2;}
+\DoxyCodeLine{350     }
+\DoxyCodeLine{351             \textcolor{comment}{// Sort first and second halves}}
+\DoxyCodeLine{352             mergeSort(arr, l, m);}
+\DoxyCodeLine{353             mergeSort(arr, m + 1, r);}
+\DoxyCodeLine{354             merge(arr, l, m, r);}
+\DoxyCodeLine{355         \}}
+\DoxyCodeLine{356     \}}
+\DoxyCodeLine{357 }
+\DoxyCodeLine{359 }
+\DoxyCodeLine{364     \textcolor{keywordtype}{double} mean(\textcolor{keywordtype}{double} *arr, \textcolor{keywordtype}{int} size)}
+\DoxyCodeLine{365     \{}
+\DoxyCodeLine{366         \textcolor{keywordtype}{double} sum = 0;}
+\DoxyCodeLine{367         \textcolor{keywordflow}{for} (\textcolor{keywordtype}{int} a = 0; a < size; ++a) \{}
+\DoxyCodeLine{368             sum += arr[a];}
+\DoxyCodeLine{369         \}}
+\DoxyCodeLine{370         \textcolor{keywordflow}{return} sum/size;}
+\DoxyCodeLine{371     \}}
+\DoxyCodeLine{372 }
+\DoxyCodeLine{374 }
+\DoxyCodeLine{380     \textcolor{keywordtype}{double} standardDev(\textcolor{keywordtype}{double} arr[], \textcolor{keywordtype}{int} size, \textcolor{keywordtype}{double} mean) }
+\DoxyCodeLine{381     \{}
+\DoxyCodeLine{382         \textcolor{keywordtype}{double} var = 0.0;}
+\DoxyCodeLine{383         \textcolor{keywordflow}{for} (\textcolor{keywordtype}{int} a = 0; a < size; ++a) }
+\DoxyCodeLine{384         \{}
+\DoxyCodeLine{385             var += pow(arr[a] -\/ mean, 2);}
+\DoxyCodeLine{386         \}}
+\DoxyCodeLine{387         var = var / (size-\/1);}
+\DoxyCodeLine{388         \textcolor{keywordflow}{return} sqrt(var);}
+\DoxyCodeLine{389     \}}
+\DoxyCodeLine{390 }
+\DoxyCodeLine{392 }
+\DoxyCodeLine{398     \textcolor{keywordtype}{double} getMedian(\textcolor{keywordtype}{double} arr[], \textcolor{keywordtype}{int} start, \textcolor{keywordtype}{int} end) }
+\DoxyCodeLine{399     \{}
+\DoxyCodeLine{400         \textcolor{keywordtype}{double} median = 0;}
+\DoxyCodeLine{401         \textcolor{keywordtype}{int} size = end -\/ start + 1;}
+\DoxyCodeLine{402         \textcolor{keywordflow}{if} (size \% 2 == 0) }
+\DoxyCodeLine{403         \{}
+\DoxyCodeLine{404             median = (arr[start + size / 2 -\/ 1] + arr[start + size / 2]) / 2;}
+\DoxyCodeLine{405         \}}
+\DoxyCodeLine{406         \textcolor{keywordflow}{else} }
+\DoxyCodeLine{407         \{}
+\DoxyCodeLine{408             median = arr[start + (size -\/ 1) / 2];}
+\DoxyCodeLine{409         \}}
+\DoxyCodeLine{410         \textcolor{keywordflow}{return} median;}
+\DoxyCodeLine{411     \}}
+\DoxyCodeLine{412 }
+\DoxyCodeLine{413 \};}
+\DoxyCodeLine{414 }
+\DoxyCodeLine{415 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

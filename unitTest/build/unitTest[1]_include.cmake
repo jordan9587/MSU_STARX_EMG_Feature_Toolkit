@@ -1,0 +1,5 @@
+if(EXISTS "/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest[1]_tests.cmake")
+  include("/Users/jordanhybki/Documents/GitHub/STARX-EMG-Feature-Toolkit/unitTest/build/unitTest[1]_tests.cmake")
+else()
+  add_test(unitTest_NOT_BUILT unitTest_NOT_BUILT)
+endif()
