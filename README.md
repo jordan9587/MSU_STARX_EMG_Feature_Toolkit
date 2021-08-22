@@ -9,7 +9,7 @@ To use this library for Arduino, within ***/source/emgToolbox.h*** uncomment the
 Please refer to intrinsic documentation to the different function descriptions and information on how the class works.
 
 ## Google Test
-In terminal cd into the /unitTest folder and run the commands below.
+In terminal, cd into the ***/unitTest*** folder and run the commands below:
 ```
   cmake -S . -B build
   
